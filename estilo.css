@@ -1,0 +1,26 @@
+.pagina {
+    background: #6d6d6d;
+}
+
+.encabezado {
+    display: flex;
+    justify-content: center;
+}
+
+.imagen__artista {
+    width: 60vw;
+}
+
+.texto {
+    text-align: center;
+    background: #ffffff;
+}
+
+.video {
+    display: flex;
+    justify-content: center;
+}
+
+.video1 {
+    width: 60vw;
+}
